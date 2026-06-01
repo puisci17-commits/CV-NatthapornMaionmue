@@ -1,0 +1,6 @@
+{
+  "name": "Natthaporn Portfolio",
+  "description": "Interactive CV and personal portfolio of Natthaporn Maionmue, Digital Marketing Strategist & Project Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
