@@ -8,7 +8,7 @@ export const PROFILE = {
   phone: "092-254-1697",
   linkedIn: "https://www.linkedin.com/in/natthapornmaionmue/",
   github: "https://github.com/puisci17-commits",
-  bio: "Data-Driven Strategist with 10+ years in digital campaigns and platform management. Background in Science (B.Sc. & M.Sc.), applying logical analysis to marketing. Expert in Enterprise MarTech (AEM/Salesforce), SEO, and budget optimization for measurable business results. Passionately exploring and mastering advanced AI tools, Vibe Coding paradigms, and Google Apps Script to design and automate high-impact digital solutions.",
+  bio: "Data-Driven Strategist with 10+ years in digital campaigns and platform management. Background in Science (B.Sc. & M.Sc.), applying logical analysis to marketing. Expert in Enterprise MarTech (AEM/Salesforce), SEO/AEO/GEO, and budget optimization for measurable business results. Passionately exploring and mastering advanced AI tools, Vibe Coding paradigms, and Google Apps Script to design and automate high-impact digital solutions.",
   hobbies: ["AI Vibe Coding", "MarTech Automation", "Gastronomy & Food Chemistry", "Travel Photography", "Technical Writing"],
   birthDate: "14-SEP-1983",
   nationality: "Thai",
@@ -135,7 +135,7 @@ export const SKILLS: Skill[] = [
     name: "Search Optimization & SEO",
     level: 90,
     category: "Strategy",
-    details: ["Technical SEO", "On-Page/Off-Page Optimization", "Semantic Keyword Indexing", "WordPress Auditing"]
+    details: ["Technical SEO", "AEO & GEO Optimization", "On-Page/Off-Page Optimization", "Semantic Keyword Indexing", "WordPress Auditing"]
   },
   {
     name: "Campaign & Media Planning",
