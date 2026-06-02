@@ -28,6 +28,29 @@ export const WORK_EXPERIENCES: WorkExperience[] = [
     ]
   },
   {
+    id: "work-pir",
+    company: "Pi R Square",
+    role: "Project Manager and Client Support",
+    period: "May 2024 – March 2025",
+    description: "Supervised core Service Level Agreements (SLA), reproduced client issues, and led technical troubleshooting workflows to ensure seamless operations.",
+    highlights: [
+      "SLA & Troubleshooting: Represented general issues from clients, managing overall SLAs, reproducing bugs, and keeping the testing team well-informed until resolution delivery.",
+      "Product Management: Take care of Pi R Square's sales and e-commerce system, Floww Square."
+    ]
+  },
+  {
+    id: "work-freelance",
+    company: "Freelance",
+    role: "Independent Digital Strategist & Web Consultant",
+    period: "August 2022 – April 2024",
+    description: "Provided professional web consultation and analytics reporting solutions during a period of extensive physical recovery.",
+    highlights: [
+      "Responsive Transition: Stepped down from full-time agency roles following an accident to deliver high-quality freelance outcomes.",
+      "E-commerce Consulting: Engineered and optimized web e-commerce sites using the Shopify platform.",
+      "Analytics & Page Admin: Developed administrator reports on Appsflyer and handled page administration tasks for massive consumer brands like KFC."
+    ]
+  },
+  {
     id: "work-2",
     company: "Team X BBDO Thailand",
     role: "Digital Project Manager",
