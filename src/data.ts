@@ -31,7 +31,7 @@ export const WORK_EXPERIENCES: WorkExperience[] = [
     id: "work-pir",
     company: "Pi R Square",
     role: "Project Manager and Client Support",
-    period: "May 2024 – March 2025",
+    period: "2024 – 2025",
     description: "Supervised core Service Level Agreements (SLA), reproduced client issues, and led technical troubleshooting workflows to ensure seamless operations.",
     highlights: [
       "SLA & Troubleshooting: Represented general issues from clients, managing overall SLAs, reproducing bugs, and keeping the testing team well-informed until resolution delivery.",
@@ -42,7 +42,7 @@ export const WORK_EXPERIENCES: WorkExperience[] = [
     id: "work-freelance",
     company: "Freelance",
     role: "Independent Digital Strategist & Web Consultant",
-    period: "August 2022 – April 2024",
+    period: "2022 - PRESENT",
     description: "Provided professional web consultation and analytics reporting solutions during a period of extensive physical recovery.",
     highlights: [
       "Responsive Transition: Stepped down from full-time agency roles following an accident to deliver high-quality freelance outcomes.",
