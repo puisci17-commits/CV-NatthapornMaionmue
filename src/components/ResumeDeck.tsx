@@ -285,13 +285,29 @@ export default function ResumeDeck() {
                       </p>
 
                       {/* Incremental Bullet Details */}
-                      <ul className="mt-3.5 space-y-2">
-                        {exp.highlights.map((hlt, hidx) => (
-                          <li key={hidx} className="flex gap-2.5 items-start text-xs text-zinc-700 dark:text-zinc-300 font-light">
-                            <span className="font-mono text-[#a5634a] font-black select-none mt-0.5 shrink-0">→</span>
-                            <span>{hlt}</span>
-                          </li>
-                        ))}
+                      <ul className="mt-3.5 space-y-2.5">
+                        {exp.highlights.map((hlt, hidx) => {
+                          const colonIdx = hlt.indexOf(":");
+                          if (colonIdx !== -1) {
+                            const label = hlt.slice(0, colonIdx);
+                            const content = hlt.slice(colonIdx + 1);
+                            return (
+                              <li key={hidx} className="flex gap-2.5 items-start text-xs text-zinc-700 dark:text-zinc-300 font-light leading-relaxed">
+                                <span className="font-mono text-[#a5634a] font-black select-none mt-0.5 shrink-0">→</span>
+                                <span>
+                                  <strong className="font-semibold text-[#1d1715] dark:text-zinc-100 font-sans mr-1">{label}:</strong>
+                                  {content}
+                                </span>
+                              </li>
+                            );
+                          }
+                          return (
+                            <li key={hidx} className="flex gap-2.5 items-start text-xs text-zinc-700 dark:text-zinc-300 font-light leading-relaxed">
+                              <span className="font-mono text-[#a5634a] font-black select-none mt-0.5 shrink-0">→</span>
+                              <span>{hlt}</span>
+                            </li>
+                          );
+                        })}
                       </ul>
                     </div>
                   </div>

@@ -17,14 +17,32 @@ export const PROFILE = {
 
 export const WORK_EXPERIENCES: WorkExperience[] = [
   {
+    id: "work-ydm",
+    company: "YDM Thailand",
+    role: "Marketing Automation Specialist (Adobe Campaign)",
+    period: "2026 – PRESENT",
+    description: "Spearheading end-to-end email marketing (EDM) operations, automation workflows, audience segmentation, and database hygiene on Adobe Campaign (AC) to deliver high-converting, personalized customer experiences.",
+    highlights: [
+      "Campaign Execution: Managed and executed end-to-end EDM campaigns via Adobe Campaign, ensuring 100% accuracy and on-time deployment according to brand schedules.",
+      "Workflow & Segmentation: Designed and constructed advanced automation workflows within Adobe Campaign for precise audience segmentation and implemented dynamic content to deliver highly personalized customer experiences.",
+      "A/B Testing: Planned and executed tactical A/B testing on subject lines, email content, and dispatch timing to optimize open rates and click-through rates (CTR).",
+      "Data Management: Maintained database hygiene by monitoring bounce rates, executing data cleansing, and managing global unsubscribe/suppression lists within Adobe Campaign.",
+      "Reporting & Optimization: Tracked, analyzed, and reported key email performance metrics (Open Rate, CTR, Conversion Rate) while providing actionable data-driven insights for future campaign optimization.",
+      "Quality Assurance (QA): Performed rigorous technical QA and rendering checks across multiple devices and email clients to ensure responsive design integrity and zero-error deployment."
+    ]
+  },
+  {
     id: "work-1",
     company: "Just You Gift",
     role: "Digital Marketing",
-    period: "2025 – Present",
-    description: "Formulating high-performing digital marketing systems for a premium artisan brand, maximizing revenue and fine-tuning technical touchpoints.",
+    period: "2025 – 2026",
+    description: "Formulating and executing end-to-end digital marketing, performance advertising, SEO/AEO, and e-commerce strategies for a premium artisan brand, integrated with AI-driven creative workflows.",
     highlights: [
-      "Data-Driven Strategy: Managed end-to-end campaigns, optimizing budget and ad spend (Meta/Google) based on real-time performance data.",
-      "SEO & Web Ops: Implemented Technical SEO for WordPress to boost organic traffic and conversion rates."
+      "Digital Marketing & E-commerce: Formulated holistic digital strategies, omni-channel campaign management, market research & competitor analysis, CRM, email marketing, and social media orchestration (Facebook, Instagram, TikTok, LINE OA).",
+      "Performance Marketing: Executed and optimized multi-platform paid advertising campaigns across Meta Ads, Google Ads, and LINE Ads to maximize conversion rates and ROAS.",
+      "SEO, AEO & Website Ops: Deployed SEO and Answer Engine Optimization (AEO) foundations, semantic keyword research, Google Search Console audits, and WordPress CMS management (landing page development and product cataloging).",
+      "Analytics & Data Intelligence: Delivered comprehensive marketing performance reporting, campaign KPI tracking, advertising analytics, and structured data-driven optimization.",
+      "Creative & AI Integration: Produced high-converting visual assets and copy using Canva, Adobe Photoshop, and CapCut video editing, while leveraging modern AI tools for agile marketing and content creation."
     ]
   },
   {
@@ -123,7 +141,7 @@ export const SKILLS: Skill[] = [
     name: "Enterprise MarTech",
     level: 95,
     category: "MarTech",
-    details: ["Adobe Experience Manager (AEM)", "Salesforce (SFMC)", "Data Management Platforms (DMP)", "Google Search Console"]
+    details: ["Adobe Campaign (AC)", "Adobe Experience Manager (AEM)", "Salesforce (SFMC)", "Data Management Platforms (DMP)", "Google Search Console"]
   },
   {
     name: "Data & Web Analytics",

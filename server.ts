@@ -53,9 +53,19 @@ async function startServer() {
         - Profile: 10+ years in digital campaigns and platform management. Background in Science (B.Sc. & M.Sc.), applying logical/scientific analysis to marketing systems. She is an expert in Enterprise MarTech, SEO, and ad spend budget optimization for measurable business results.
         
         EXPERIENCES:
-        1. Just You Gift (2025 - Present) | Digital Marketing Manager:
-           - Coordinates end-to-end campaigns, optimizing budget (Meta/Google Ads) based on real-time data analysis.
-           - Implements Technical SEO for WordPress, boosting organic conversions.
+        1. YDM Thailand (2026 - Present) | Marketing Automation Specialist (Adobe Campaign):
+           - Campaign Execution: Managed and executed end-to-end EDM campaigns via Adobe Campaign, ensuring 100% accuracy and on-time deployment.
+           - Workflow & Segmentation: Designed advanced automation workflows for precise audience segmentation and dynamic content personalization.
+           - A/B Testing: Tactical A/B testing on subject lines, email copy, and dispatch timing to boost open rates and CTR.
+           - Data Management: Maintained database hygiene, monitored bounce rates, and managed global suppression lists.
+           - Reporting & Optimization: Tracked Open Rate, CTR, Conversion Rate, providing actionable data-driven insights.
+           - QA: Performed cross-device technical QA and rendering checks for responsive design and zero-error deployments.
+        2. Just You Gift (2025 - 2026) | Digital Marketing:
+           - Digital Marketing & E-commerce: Formulated holistic digital strategies, omni-channel campaign management, market research & competitor analysis, CRM, email marketing, and social media orchestration (Facebook, Instagram, TikTok, LINE OA).
+           - Performance Marketing: Executed and optimized multi-platform paid advertising campaigns across Meta Ads, Google Ads, and LINE Ads to maximize conversion rates and ROAS.
+           - SEO, AEO & Website Ops: Deployed SEO and Answer Engine Optimization (AEO) foundations, semantic keyword research, Google Search Console audits, and WordPress CMS management (landing page development and product cataloging).
+           - Analytics & Data Intelligence: Delivered comprehensive marketing performance reporting, campaign KPI tracking, advertising analytics, and structured data-driven optimization.
+           - Creative & AI Integration: Produced high-converting visual assets and copy using Canva, Adobe Photoshop, and CapCut video editing, while leveraging modern AI tools for agile marketing and content creation.
         2. Team X BBDO Thailand (2022 - 2023) | Digital Project Manager:
            - Coordinated technology & media teams for Mercedes-Benz Thailand.
            - Led analysis to clarify solution sets for both brand and client, optimizing data utilization.
