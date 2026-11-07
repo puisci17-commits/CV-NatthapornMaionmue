@@ -20,6 +20,7 @@ export default function ResumeDeck() {
   
   // Custom rotating Tweet status
   const tweets = [
+    "Marketing Automation Rule: Dynamic content is only as good as database hygiene. Segment precision in Adobe Campaign always beats raw send volume. 🎯",
     "MarTech Pro-tip: WordPress Technical SEO isn't just keywords. Core Web Vitals and clean schema architecture determine 65% of organic crawler indexations. 📈",
     "Data-driven spending means matching Meta & Google Ads budgets directly to hourly conversion spikes. Stop burning budget on flat cycles. 📊",
     "Enterprise web deployment requires lockstep QA. Salesforce SFMC integrations fail if database schemas aren't audited in staging first. 🔍",
@@ -171,16 +172,19 @@ export default function ResumeDeck() {
           {/* RIGHT: High-contrast headshot and quick facts table */}
           <div className="lg:col-span-5 pattern-stripes-light dark:pattern-stripes-dark border-2 border-[#1d1715] dark:border-[#f7f7f6] rounded-none p-6 md:p-8 flex flex-col justify-between bg-white dark:bg-[#1d1715] h-full">
             <div className="relative z-10 w-full space-y-6">
-              {/* Styled NM Monogram */}
+              {/* Profile Avatar */}
               <div className="flex flex-col items-center pt-2">
-                <div className="relative p-2.5 border-2 border-dashed border-[#a5634a] rounded-full bg-white dark:bg-[#1d1715] shrink-0">
-                  <div className="w-40 h-40 rounded-full bg-[#f7f7f6] dark:bg-[#1d1715]/40 border-2 border-[#1d1715] dark:border-[#f7f7f6] flex items-center justify-center shadow-md select-none">
-                    <span className="font-sans font-extrabold text-5xl tracking-widest text-[#a5634a] pl-1.5">
-                      NM
-                    </span>
+                <div className="relative p-2 border-2 border-dashed border-[#a5634a] rounded-full bg-white dark:bg-[#1d1715] shrink-0 group">
+                  <div className="w-40 h-40 rounded-full overflow-hidden border-2 border-[#1d1715] dark:border-[#f7f7f6] shadow-md bg-[#f7f7f6] dark:bg-[#1d1715]">
+                    <img
+                      src={PROFILE.avatarUrl}
+                      alt="Natthaporn Co-Pilot"
+                      className="w-full h-full object-cover object-[center_28%] group-hover:scale-105 transition-transform duration-300"
+                    />
                   </div>
                 </div>
                 <span className="w-12 h-[2.5px] bg-[#a5634a] rounded-none mt-4" />
+                <span className="font-mono text-[9px] text-[#a5634a] font-bold tracking-widest uppercase mt-2">Natthaporn & Co-Pilot 🐾</span>
               </div>
 
               {/* Data Table */}

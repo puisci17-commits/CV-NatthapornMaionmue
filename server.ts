@@ -47,26 +47,21 @@ async function startServer() {
         
         NATTHAPORN's SUMMARY & DETAILS:
         - Name: NATTHAPORN MAIONMUE
-        - Title: Digital Marketing Strategist & Project Manager
+        - Title: Digital Marketing Strategist & MarTech Automation Specialist
         - Contact: nattha.maionmue@gmail.com | +66 (0)92 254 1697
         - Location: Bangkok, Thailand
-        - Profile: 10+ years in digital campaigns and platform management. Background in Science (B.Sc. & M.Sc.), applying logical/scientific analysis to marketing systems. She is an expert in Enterprise MarTech, SEO, and ad spend budget optimization for measurable business results.
+        - Profile: 10+ years in digital campaigns, enterprise MarTech platforms, and marketing automation. Background in Science (B.Sc. & M.Sc.), applying logical/scientific analysis to marketing systems. She is an expert in Enterprise MarTech (Adobe Campaign, AEM, Salesforce), SEO/AEO, and budget optimization for measurable business results.
         
         EXPERIENCES:
-        1. YDM Thailand (2026 - Present) | Marketing Automation Specialist (Adobe Campaign):
-           - Campaign Execution: Managed and executed end-to-end EDM campaigns via Adobe Campaign, ensuring 100% accuracy and on-time deployment.
-           - Workflow & Segmentation: Designed advanced automation workflows for precise audience segmentation and dynamic content personalization.
-           - A/B Testing: Tactical A/B testing on subject lines, email copy, and dispatch timing to boost open rates and CTR.
-           - Data Management: Maintained database hygiene, monitored bounce rates, and managed global suppression lists.
-           - Reporting & Optimization: Tracked Open Rate, CTR, Conversion Rate, providing actionable data-driven insights.
-           - QA: Performed cross-device technical QA and rendering checks for responsive design and zero-error deployments.
+        1. YDM Thailand (2026 - Present) | Marketing Automation Specialist:
+           - Campaign Operations: Planned, automated, and executed accurate EDM deployments with dynamic segmentation and tailored customer journeys.
+           - Testing & Optimization: Led tactical A/B testing, tracked Open/CTR performance, maintained database hygiene, and enforced cross-device QA.
+           - Stack: Adobe Campaign (AC), Marketing Automation Workflows, CRM Database Hygiene.
         2. Just You Gift (2025 - 2026) | Digital Marketing:
-           - Digital Marketing & E-commerce: Formulated holistic digital strategies, omni-channel campaign management, market research & competitor analysis, CRM, email marketing, and social media orchestration (Facebook, Instagram, TikTok, LINE OA).
-           - Performance Marketing: Executed and optimized multi-platform paid advertising campaigns across Meta Ads, Google Ads, and LINE Ads to maximize conversion rates and ROAS.
-           - SEO, AEO & Website Ops: Deployed SEO and Answer Engine Optimization (AEO) foundations, semantic keyword research, Google Search Console audits, and WordPress CMS management (landing page development and product cataloging).
-           - Analytics & Data Intelligence: Delivered comprehensive marketing performance reporting, campaign KPI tracking, advertising analytics, and structured data-driven optimization.
-           - Creative & AI Integration: Produced high-converting visual assets and copy using Canva, Adobe Photoshop, and CapCut video editing, while leveraging modern AI tools for agile marketing and content creation.
-        2. Team X BBDO Thailand (2022 - 2023) | Digital Project Manager:
+           - Growth & Performance: Managed omni-channel campaigns and ad spend optimization across Meta, Google, and LINE Ads to boost conversions.
+           - SEO & Content Ops: Executed SEO/AEO foundations, WordPress landing page development, and AI-accelerated multimedia content production.
+           - Stack: Meta Ads, Google Ads, WordPress CMS, GA4, Canva, CapCut, AI Creative Tools.
+        3. Team X BBDO Thailand (2022 - 2023) | Digital Project Manager:
            - Coordinated technology & media teams for Mercedes-Benz Thailand.
            - Led analysis to clarify solution sets for both brand and client, optimizing data utilization.
         3. Publicis Emil (2018 - 2021) | Digital Platform Manager:
